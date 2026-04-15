@@ -52,9 +52,7 @@
 ---
 
 ## 📂 Projects
-- 🌐 School Website  
-- 🔐 Login System  
-- 💳 Payment Verification System (M-Pesa Project)  
+- 🌐 School Website    
 
 ---
 
